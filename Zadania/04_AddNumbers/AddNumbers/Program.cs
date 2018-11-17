@@ -2,6 +2,10 @@
 
 namespace AddNumbers
 {
+    // Zaprezentowane tu rozwiązanie jest poprawne, ale ściśle rzecz biorąc, nie ogranicza
+    // nas do wprowadzania jedynie cyfr. Zamiast podać pojedynczą cyfrę, możemy wpisać tu
+    // całkiem długą liczbę.
+    // W programie 04_AddDigits zaprezentowane jest rozwiązanie działające tylko dla cyfr.
     class Program
     {
         /*
